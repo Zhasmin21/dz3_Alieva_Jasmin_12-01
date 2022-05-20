@@ -18,7 +18,7 @@ class BlogPage extends React.Component {
             <>
                 <h1 className={classes.h1}>Blog Page</h1>
                 {this.state.menuStatus && <News/>}
-                <button className={classes.btn} onClick={this.handleMenu}>menu</button>
+                <button className={classes.btn} onClick={this.handleMenu}>show</button>
             </>
         )
     }
