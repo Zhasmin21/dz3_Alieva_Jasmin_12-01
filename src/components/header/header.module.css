@@ -1,0 +1,21 @@
+.header {
+    display: flex;
+    height: 30px;
+    background-color: #fc9d00;
+}
+.header li {
+    margin-right: 20px;
+    list-style: none;
+}
+.header a {
+    color: #fff;
+    padding: 6px 15px;
+    line-height: 31px;
+    text-decoration: none;
+    font-weight: bold;
+}
+.header a:hover {
+    color: #484848;
+    background-color: #fff;
+}
+

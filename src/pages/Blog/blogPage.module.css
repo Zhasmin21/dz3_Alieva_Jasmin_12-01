@@ -1,0 +1,18 @@
+
+.h1 {
+    display: flex;
+    justify-content: center;
+    color: white;
+    background-color: skyblue;
+}
+.btn {
+    padding: 0 15px;
+    color: #fff;
+    line-height: 48px;
+    border-radius: 6px;
+    text-transform: uppercase;
+    text-align: center;
+    font-weight: 700;
+    border: 1px solid transparent;
+    background-color: skyblue;
+}
